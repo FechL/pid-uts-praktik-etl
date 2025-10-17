@@ -1,0 +1,11 @@
+truck_id,model,year,capacity_kg
+TRK001,Mitsubishi Fuso,2022,5000
+TRK002,Isuzu Elf,2021,3500
+TRK003,Hino Dutro,2023,4500
+TRK004,Mitsubishi Canter,2022,4000
+TRK005,Isuzu Giga,2020,8000
+TRK006,Hino Ranger,2021,6000
+TRK007,Mitsubishi Fuso,2023,5500
+TRK008,Isuzu Elf,2020,3000
+TRK009,Hino Dutro,2022,4200
+TRK010,Mitsubishi Canter,2021,3800
