@@ -3,7 +3,7 @@
 - Briliiant Akhmad Assiddiqqy 235150301111045
 - Andan Riski Mustari 235150301111002
 
-Sumber: (link repo)
+Sumber/Repo: [github.com/FechL/pid-uts-praktik-etl](https://github.com/FechL/pid-uts-praktik-etl)
 
 # Soal 1: Batch Processing
 Membuat batch pipeline menggunakan Python dan Pandas untuk memproses data sensor_data_raw.csv. Tugasnya meliputi pembersihan data (mengisi suhu kosong dengan median), menghitung rata-rata suhu serta kelembapan maksimum per truk, dan menyimpan hasil ke file CSV. Soal ini menilai kemampuan dasar pemrosesan data terprogram.
@@ -421,3 +421,6 @@ print(report)
 ```
 Tidak ada kesalahan kualitas data ditemukan. Data sudah bersih.
 ```
+
+# Kesimpulan
+Kelima soal UTS Arsitektur Sistem Data membentuk pemahaman utuh tentang pengelolaan data dari akuisisi hingga validasi. Soal pertama melatih pembersihan dan agregasi data dengan Python, soal kedua mengenalkan implementasi MySQL dan MongoDB, soal ketiga menerapkan analisis anomali dengan SQL Window Functions, soal keempat membangun pipeline ETL sederhana, dan soal kelima menekankan pentingnya validasi kualitas data. Secara keseluruhan, rangkaian soal ini menggambarkan alur kerja arsitektur data modern secara terintegrasi dan praktis.
